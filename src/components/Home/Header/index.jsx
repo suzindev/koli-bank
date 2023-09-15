@@ -1,4 +1,3 @@
-import { View, Text } from "react-native";
 import React from "react";
 import { Container, Logo, UserPhotoContainer, UserPhotoImage } from "./styled";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
